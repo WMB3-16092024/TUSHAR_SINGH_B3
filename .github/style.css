@@ -1,0 +1,49 @@
+.cm {
+    width: 5cm;
+    height:5cm;
+    background-color: aqua;
+    border: 5px solid brown;
+    margin: 10px;
+}
+.in {
+    width: 5in;
+    height: 1in;
+    background-color: blue;
+    border: 5px solid red;
+    margin: 10px;
+}
+.rem {
+    width: 2rem;
+    height: 2rem;
+    background-color: green;
+    border: 5px dashed yellow;
+    margin: 10px;
+}
+.px {
+    width: 95px;
+    height: 95px;
+    background-color: blueviolet;
+    border: 5px dotted black;
+    margin: 10px;
+}
+.em {
+    width: 5em;
+    height: 5em;
+    background-color: pink;
+    border: 5px solid purple;
+    margin: 10px;
+}
+.ch {
+    width: 5ch;
+    height: 5ch;
+    background-color: red;
+    border: 5px solid blue;
+    margin: 10px;
+}
+
+.main-container {
+    height: 700px;
+    width: 700px;
+    border: 3px solid black;
+
+}
