@@ -1,0 +1,37 @@
+.main-container {
+    height: 500px;
+    width: 700px;
+    border: 2px solid blue;
+}
+.first {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background: linear-gradient(orange, yellow);
+}
+.second {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background: linear-gradient(to right, orange 25%, yellow 100%);
+}
+.third {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background: linear-gradient(to right, grey 50%, white 75%, black 75%);
+}
+.fourth {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px;
+    background: linear-gradient(violet, indigo, blue, green, yellow, orange, red);
+}
